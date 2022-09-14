@@ -1,12 +1,9 @@
 # Overview
 
-You've made it to the last part of the course! It's time to work on your final project, Building a CI/CD Pipeline.
+Building a CI/CD Pipeline.
+Deploy Flask Machine Learning Application on Azure App Services
 
-## Project Plan
-<TODO: Project Plan
-
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+![continuous-delivery](https://imageblog2022.blob.core.windows.net/images/flow.jpg)
 
 ## Instructions
 
