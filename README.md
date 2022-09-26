@@ -14,3 +14,9 @@ Deploy Flask Machine Learning Application on Azure App Services
    ![1-vm-machine](https://azureimages2022.blob.core.windows.net/imagesdevops2022/vm.png)
 
    ![2-connect-vm](https://azureimages2022.blob.core.windows.net/imagesdevops2022/connect_vm.png) 
+
+3. Configure Github Repo with Azure Pipelines Enabled (Could be a fork of this repo)
+   ![3-create-Github-Repo](https://azureimages2022.blob.core.windows.net/imagesdevops2022/configure-rsa-key.png)
+  
+
+
