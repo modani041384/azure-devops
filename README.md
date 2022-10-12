@@ -14,8 +14,9 @@ A Trello board for the project is
 ![trello-project](https://azureimages2022.blob.core.windows.net/imagesdevops2022/trello_project.png)
 We can get the link to trello project at https://trello.com/b/mW6jdFMn/build-be
 
-# The GitHub Actions
+# CI: Configure GitHub Actions
 Go to Actions, and then choose New workflow
+![cd](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_0.png)    
 step 1:
 ![cd-1](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_1.png)
 step 2:
