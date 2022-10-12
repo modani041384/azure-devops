@@ -23,5 +23,6 @@ step 2:
 ![cd-2](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_2.png)
 step 3:
 ![cd-3](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_3.png)
+step 4: update contain of file main-pipline.yml
+![content-yml](https://azureimages2022.blob.core.windows.net/imagesdevops2022/content_main_yml.png)
 Final, we have:
-![cd-4](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_4.png)
