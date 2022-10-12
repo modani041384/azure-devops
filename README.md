@@ -24,5 +24,10 @@ step 2:
 step 3:
 ![cd-3](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_3.png)
 step 4: update contain of file main-pipline.yml
-![content-yml](https://azureimages2022.blob.core.windows.net/imagesdevops2022/content_main_yml.png)
+![cd-4](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_4.png)
 Final, we have:
+
+# Continuous Delivery on Azure
+In this diagram, you can see a continuous delivery of a flask application through the use of Azure Pipelines and Azure App service.
+![cd-concept](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CD_concept.png)
+Azure DevOps Pipeline Agent
