@@ -64,9 +64,16 @@ stages:
       runOnce:
         deploy:
           steps:
-          - task: AzureWebApp@1
-            displayName: 'Deploy Azure Web App : flask-ml-service'
-            inputs:
-              azureSubscription: $(azureServiceConnectionId)
-              appName: $(webAppName)
-              package: $(Pipeline.Workspace)/drop/$(Build.BuildId).zip
+            - name: Download artifact from build job
+              uses: actions/download-artifact@v2
+              with:
+                name: python-app
+                path: .
+                
+            - name: 'Deploy to Azure Web App'
+              uses: azure/webapps-deploy@v2
+              id: deploy-to-webapp
+              with:
+                app-name: 'mywebapp1923'
+                slot-name: 'Production'
+                publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_35767A461B54498685CE6743440B771F }}
