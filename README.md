@@ -16,18 +16,18 @@ We can get the link to trello project at https://trello.com/b/mW6jdFMn/build-be
 
 # CI: Configure GitHub Actions
 Go to Actions, and then choose New workflow
-![cd](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_0.png)    
+![ci](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_0.png)    
 step 1:
-![cd-1](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_1.png)
+![ci-1](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_1.png)
 step 2:
-![cd-2](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_2.png)
+![ci-2](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_2.png)
 step 3:
-![cd-3](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_3.png)
+![ci-3](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_3.png)
 step 4: update contain of file main-pipline.yml
-![cd-4](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_4.png)
+![ci-4]https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_4.png)
 Final, we have:
-![cd-F1](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_F1.png)
-![cd-F2](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_F2.png)
+![ci-F1](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_F1.png)
+![ci-F2](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_F2.png)
 
 # Continuous Delivery on Azure
 In this diagram, you can see a continuous delivery of a flask application through the use of Azure Pipelines and Azure App service.
