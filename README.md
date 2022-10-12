@@ -24,7 +24,7 @@ step 2:
 step 3:
 ![ci-3](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_3.png)
 step 4: update contain of file main-pipline.yml
-![ci-4](hhttps://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_4.png)
+![ci-4](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_41.png)
 Final, we have:
 ![ci-F1](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_F1.png)
 ![ci-F2](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_F2.png)
