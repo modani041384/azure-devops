@@ -16,7 +16,11 @@ We can get the link to trello project at https://trello.com/b/mW6jdFMn/build-be
 
 # The GitHub Actions
 Go to Actions, and then choose New workflow
+step 1:
 ![cd-1](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_1.png)
+step 2:
 ![cd-2](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_2.png)
+step 3:
 ![cd-3](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_3.png)
+Final, we have:
 ![cd-4](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CI_4.png)
