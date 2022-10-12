@@ -10,6 +10,7 @@ The plan project estimate is
 We can get the file at https://azureimages2022.blob.core.windows.net/imagesdevops2022/project-management-template.xlsx
 
 A Trello board for the project is
+![trello-project-init](https://azureimages2022.blob.core.windows.net/imagesdevops2022/trello_project_init.png)
 ![trello-project](https://azureimages2022.blob.core.windows.net/imagesdevops2022/trello_project.png)
 We can get the link to trello project at https://trello.com/b/mW6jdFMn/build-be
 
