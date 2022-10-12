@@ -34,6 +34,9 @@ In this diagram, you can see a continuous delivery of a flask application throug
 ![cd-concept](https://azureimages2022.blob.core.windows.net/imagesdevops2022/CD_concept.png)
 Azure DevOps Pipeline Agent
 +Step by step create Azure DevOps Pipeline at
+
 -We can get infomation about step 1 at: https://www.youtube.com/watch?v=QIFVOTGEnLY
+
 -We can get infomation about step 2 at: https://www.youtube.com/watch?v=WVEpYa1WUjM
+
 -We can get infomation about step 3 at: https://www.youtube.com/watch?v=mHKXksJDvUo
